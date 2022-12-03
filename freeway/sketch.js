@@ -23,7 +23,7 @@ function setup() {
   textSize(height*.05);
   fill(color(255,192,0));
   
-  lanes = [18,30,42,58,70,82];
+  lanes = [18,31,43,57,69,82];
   speeds = [7.1,9.9,14.3,10.7,7.5,6.3];
   dirs = [-1,-1,-1,1,1,1];
   distance = [0,0,0,0,0,0];
@@ -33,7 +33,7 @@ function setup() {
   xScore=[width * .3, width * .7];
   yScore=[height * .04, height * .04];
 
-  carHeight = height * .08;
+  carHeight = height * .085;
   carWidth = carHeight * 1.33;
   
   playerHeight = height * .06;

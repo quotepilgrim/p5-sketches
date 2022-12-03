@@ -47,7 +47,7 @@ function collidePlayer(id,x,y,x2,y2) {
 
 function resetPlayer(id) {
   up[id] = false;
-  yPlayer[id] = .92*height;
+  yPlayer[id] = .91*height;
 }
 
 function updateScore (id,value) {
