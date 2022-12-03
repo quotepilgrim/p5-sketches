@@ -90,3 +90,18 @@ function ballReset() {
   ballXpos = width/2;
   ballYpos = height/2;
 }
+
+function muitiplayerToggle() {
+  ballReset();
+  multiplayer = !multiplayer;
+  playerScore = 0;
+  enemyScore = 0;
+  enemyYpos = height/2 - playerHeight/2;
+}
+
+//input
+function keyPressed() {
+  if (keyCode == 80) {
+    muitiplayerToggle();
+  }
+}
