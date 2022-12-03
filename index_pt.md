@@ -1,3 +1,5 @@
+(View this page in English)[./index.html].
+
 ## [Pong](./pong/)
 
 Inspirado no clássico da Atari. Controle sua raquete com "w" e "s". Pressione "p" para alternar o modo multiplayer e resetar o jogo. O segundo jogador controloa a raquete com "i" e "k".
@@ -8,4 +10,4 @@ Inspirado no jogo Freeway para Atari 2600. Jogador 1 move com "w" e "s", e o jog
 
 ## [Angle test](./angle-test)
 
-Nothing special. Just testing how to work with angles.
+Nada de especial, somente um teste com ângulos.

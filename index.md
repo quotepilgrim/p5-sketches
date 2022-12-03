@@ -1,3 +1,5 @@
+(Ver esta página em português)[./index_pt.html].
+
 ## [Pong](./pong/)
 
 Inspired by the classic Atari arcade game. Control your paddle with "w" and "s". Pressing "p" resets the game and toggles multiplayer mode. Second player controls with "i" and "k".
