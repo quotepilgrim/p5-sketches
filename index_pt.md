@@ -1,4 +1,4 @@
-(View this page in English)[./index.html].
+[View this page in English](./index.html).
 
 ## [Pong](./pong/)
 
