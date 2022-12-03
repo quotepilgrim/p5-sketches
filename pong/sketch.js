@@ -1,5 +1,4 @@
 let multiplayer = false;
-let multiplayerToggle = false;
 
 //text properties
 let offset = .4;
