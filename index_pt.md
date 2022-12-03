@@ -1,8 +1,8 @@
 [View this page in English](./index.html).
 
-## [Pong](./pong/)
+## [Pong](./pong)
 
-Inspirado no clássico da Atari. Controle sua raquete com "w" e "s". Pressione "p" para alternar o modo multiplayer e resetar o jogo. O segundo jogador controloa a raquete com "i" e "k".
+Inspirado no clássico da Atari. Controle sua raquete com "w" e "s". Pressione "p" para alternar o modo multiplayer e reiniciar o jogo. O segundo jogador controloa a raquete com "i" e "k".
 
 ## [Freeway](./freeway)
 
