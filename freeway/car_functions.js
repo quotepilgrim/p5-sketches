@@ -1,4 +1,4 @@
-let distance, lanes, speeds, cars, carImages, xPos = [];
+let distance, lanes, speeds, cars, directions, xPos = [];
 let bg, redCar, greenCar, blueCar, yellowCar;
 let carWidth, carHeight;
 
