@@ -40,6 +40,5 @@ function calculateLane(lane) {
 }
 function calculateSpeed(speed) {
   // Calculates speed in thousandths of the screen width per frame.
-  
   return map(speed,0,1000,0,width);
 }
