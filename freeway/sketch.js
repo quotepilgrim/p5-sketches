@@ -25,7 +25,7 @@ function setup() {
   
   lanes = [18,31,43,57,69,82];
   speeds = [7.1,9.9,14.3,10.7,7.5,6.3];
-  dirs = [-1,-1,-1,1,1,1];
+  directions = [-1,-1,-1,1,1,1];
   distance = [0,0,0,0,0,0];
   cars = [blueCar, greenCar, redCar, yellowCar, purpleCar, cyanCar];
   players = [player, player];
