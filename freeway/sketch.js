@@ -54,7 +54,7 @@ function setup() {
 }
 
 function draw() {
-  image(bg,0,0,width,height);
+  background(bg);
 
   for (let i in players) {
     drawScore(i);
